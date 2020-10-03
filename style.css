@@ -1,0 +1,20 @@
+body {
+    background: #DFDFDF;
+}
+.card {
+    background-color: #E2E5DE;
+}
+.h3, h3, h4 {
+    font-size: 1.75rem;
+    text-align: center;
+    color: aqua;
+    padding: 5px;
+}
+
+.s-color {
+    color: rgb(255, 255, 255);
+}
+
+.size { 
+    height: 3rem; 
+}
